@@ -5,80 +5,107 @@
 </p>
 
 <p align="center">
-  📍 Murcia, Spain • 📊 Financial Data • 🤖 Machine Learning • 💳 Fraud Detection
+  📍 Murcia, España • 💳 Detección de Fraude • 📊 Datos Financieros • 🤖 Modelos Predictivos
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre mí
 
-I am a Data Scientist with a background in Finance and Accounting. I analyze financial data, build predictive models in Python, and transform complex datasets into actionable business insights.
+Soy Data Scientist con formación en Finanzas y Contabilidad, especializado en análisis de datos financieros y modelado predictivo.
 
-My profile combines strong business understanding with technical expertise in data analysis, machine learning, and financial modeling.
+Desarrollo soluciones de Machine Learning de principio a fin: desde la exploración de datos y la ingeniería de variables, hasta la evaluación de modelos y el despliegue de aplicaciones. Transformo datos complejos en información accionable que respalda la toma de decisiones basada en datos.
 
-I focus on fraud detection, risk analytics, and data-driven decision-making.
+Combino comprensión de negocio con experiencia técnica para generar soluciones prácticas y orientadas a resultados.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 Áreas de especialización
 
-### 👨‍💻 Programming & Databases
+- Detección de fraude  
+- Análisis de riesgos  
+- Modelado financiero  
+- Analítica predictiva  
+- Business Intelligence  
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### 👨‍💻 Programación y bases de datos
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📊 Data Analysis & Visualization
+### 📊 Análisis y visualización de datos
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
+- Análisis exploratorio de datos (EDA)  
+- Limpieza y transformación de datos  
+- Análisis estadístico  
+
 ### 🤖 Machine Learning
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-- Feature Engineering  
-- Model Evaluation  
-- Handling Imbalanced Data  
-- Classification Models  
+- Ingeniería de variables  
+- Manejo de desbalance de clases  
+- Evaluación de modelos (Recall, F1-Score, ROC-AUC)  
+- Modelos de clasificación  
 
-### 🚀 Tools
+### 🚀 Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
-## 💳 Featured Project
+## 💳 Proyecto destacado
 
-### Credit Card Fraud Detection – Machine Learning
+### Detección de fraude en tarjetas de crédito – Machine Learning
 
-I build a complete machine learning pipeline to detect fraudulent financial transactions.
+Desarrollo un pipeline completo de Machine Learning para detectar transacciones financieras fraudulentas.
 
-- Perform exploratory data analysis (EDA)
-- Clean and preprocess structured financial data
-- Handle class imbalance
-- Train classification models
-- Evaluate performance using Recall, F1-Score, and Accuracy
-- Deploy a Streamlit web application for real-time predictions
+- Realizo análisis exploratorio de datos (EDA) para identificar patrones de fraude  
+- Limpio y preprocesamiento de datos estructurados  
+- Manejo del desbalance de clases  
+- Entreno y evalúo modelos de clasificación  
+- Optimizo el rendimiento priorizando Recall para detectar fraudes  
+- Despliego una aplicación interactiva con Streamlit para predicciones en tiempo real  
 
-🔗 Repository: (Add your link here)
-
----
-
-## 💼 Professional Background
-
-I have professional experience in cost control, financial reporting, and budget analysis. I analyze financial deviations, optimize reporting processes, and apply analytical thinking to business decision-making.
-
-This business foundation strengthens my approach to financial data science projects.
+🔗 Repositorio: (Añade aquí tu enlace)
 
 ---
 
-## 📫 Contact
+## 💼 Experiencia profesional
+
+Cuento con experiencia en control de costos, reporting financiero y análisis presupuestario.
+
+- Monitoreo de desviaciones financieras  
+- Análisis de estructuras de costos  
+- Optimización de procesos de reporte  
+- Apoyo a la toma de decisiones basada en datos  
+
+Esta base financiera fortalece mi capacidad para trabajar con conjuntos de datos relacionados con riesgos y fraudes.
+
+---
+
+## 📈 Actualmente trabajando en
+
+- Mejorar modelos de detección de fraude con técnicas avanzadas  
+- Expansión hacia forecasting de series temporales financieras  
+- Fortalecimiento de flujos analíticos basados en SQL  
+
+---
+
+## 📫 Contacto
 
 📧 brayanvv21@icloud.com  
-🔗 LinkedIn: (www.linkedin.com/in/cesar-brayan-vera-vasquez)
+🔗 [LinkedIn](https://www.linkedin.com/in/cesar-brayan-vera-vasquez)  
 
 ---
 
-⭐ Building data-driven solutions in finance and risk analytics.
+⭐ Construyendo soluciones basadas en datos para finanzas y análisis de riesgos.
 
 <!---
 brayanv21/brayanv21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
