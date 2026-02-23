@@ -63,18 +63,6 @@ I build a complete machine learning pipeline to detect fraudulent financial tran
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brayanv21&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanv21&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 💼 Professional Background
 
 I have professional experience in cost control, financial reporting, and budget analysis. I analyze financial deviations, optimize reporting processes, and apply analytical thinking to business decision-making.
@@ -86,7 +74,7 @@ This business foundation strengthens my approach to financial data science proje
 ## 📫 Contact
 
 📧 brayanvv21@icloud.com  
-🔗 LinkedIn: (Add your link here)
+🔗 LinkedIn: (www.linkedin.com/in/cesar-brayan-vera-vasquez)
 
 ---
 
