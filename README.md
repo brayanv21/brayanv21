@@ -1,91 +1,96 @@
-# 👋 Hola, soy Cesar Brayan Vera Vasquez
+# 👋 Cesar Brayan Vera Vasquez
 
-## 💼 Data Scientist | Financial Data Analytics | Machine Learning
+<p align="center">
+  <strong>Data Scientist | Financial Analytics | Machine Learning</strong>
+</p>
 
-Soy Data Scientist con formación en Machine Learning y background en Finanzas y Contabilidad. Analizo datos financieros, desarrollo modelos predictivos en Python y transformo información compleja en insights accionables para la toma de decisiones.
-
-Me especializo en análisis exploratorio de datos, detección de fraude, modelado predictivo y automatización de reportes financieros.
+<p align="center">
+  📍 Murcia, Spain • 📊 Financial Data • 🤖 Machine Learning • 💳 Fraud Detection
+</p>
 
 ---
 
-## 🔎 Áreas de Interés
+## 🚀 About Me
 
-- Fraud Detection
-- Risk Analytics
-- Financial Modeling
-- Business Intelligence
-- Data-Driven Decision Making
+I am a Data Scientist with a background in Finance and Accounting. I analyze financial data, build predictive models in Python, and transform complex datasets into actionable business insights.
+
+My profile combines strong business understanding with technical expertise in data analysis, machine learning, and financial modeling.
+
+I focus on fraud detection, risk analytics, and data-driven decision-making.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming
-- Python
-- SQL
+### 👨‍💻 Programming & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📊 Data Analysis & Visualization
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 ### 🤖 Machine Learning
-- Scikit-Learn
-- Feature Engineering
-- Model Evaluation
-- Handling Imbalanced Data
-- Classification Models
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-### 🚀 Tools & Development
-- Git & GitHub
-- Streamlit
-- APIs
-- Web Scraping
+- Feature Engineering  
+- Model Evaluation  
+- Handling Imbalanced Data  
+- Classification Models  
 
----
-
-## 🚀 Featured Project
-
-### 💳 Credit Card Fraud Detection – Machine Learning
-
-Desarrollo un pipeline completo de Machine Learning para detectar fraude en transacciones financieras.
-
-- Realizo análisis exploratorio de datos (EDA).
-- Limpio y transformo datos.
-- Manejo desbalanceo de clases.
-- Entreno modelos de clasificación.
-- Evalúo métricas como Accuracy, Recall y F1-Score.
-- Implemento una aplicación web con Streamlit para predicciones en tiempo real.
-
-🔗 Repositorio: (añade aquí tu enlace)
+### 🚀 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
-## 💼 Experiencia Profesional
+## 💳 Featured Project
 
-Cuento con experiencia en control de costos, análisis financiero y contabilidad. Analizo desviaciones presupuestarias, elaboro reportes financieros y optimizo procesos contables. Este background me permite comprender profundamente datos financieros y aplicar modelos analíticos con enfoque de negocio.
+### Credit Card Fraud Detection – Machine Learning
+
+I build a complete machine learning pipeline to detect fraudulent financial transactions.
+
+- Perform exploratory data analysis (EDA)
+- Clean and preprocess structured financial data
+- Handle class imbalance
+- Train classification models
+- Evaluate performance using Recall, F1-Score, and Accuracy
+- Deploy a Streamlit web application for real-time predictions
+
+🔗 Repository: (Add your link here)
 
 ---
 
-## 📍 Ubicación
+## 📊 GitHub Stats
 
-Murcia, España
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brayanv21&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanv21&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Contacto
+## 💼 Professional Background
+
+I have professional experience in cost control, financial reporting, and budget analysis. I analyze financial deviations, optimize reporting processes, and apply analytical thinking to business decision-making.
+
+This business foundation strengthens my approach to financial data science projects.
+
+---
+
+## 📫 Contact
 
 📧 brayanvv21@icloud.com  
-🔗 LinkedIn: (añade tu enlace aquí)
+🔗 LinkedIn: (Add your link here)
 
 ---
 
-⭐ Siempre aprendiendo y desarrollando soluciones basadas en datos.
-
----
-
-⭐ Always learning. Always building.
+⭐ Building data-driven solutions in finance and risk analytics.
 
 <!---
 brayanv21/brayanv21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
