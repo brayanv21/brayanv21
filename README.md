@@ -90,13 +90,6 @@ Esta base financiera fortalece mi capacidad para trabajar con conjuntos de datos
 
 ---
 
-## 📈 Actualmente trabajando en
-
-- Mejorar modelos de detección de fraude con técnicas avanzadas  
-- Expansión hacia forecasting de series temporales financieras  
-- Fortalecimiento de flujos analíticos basados en SQL  
-
----
 
 ## 📫 Contacto
 
