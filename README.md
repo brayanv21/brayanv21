@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @brayanv21
-- 👀 I'm interested in acquiring new knowledge
-- 🌱 I'm currently learning data science
-- 💞️ I'm looking to collaborate on different projects
-- 📫 How to contact me: +34615738128
-- 😄 Pronouns: Brayan
-- ⚡ Fun fact: gym rat
+# Cesar Brayan Vera Vasquez
+
+**Junior Data Scientist** with strong financial background and analytical skills.
+
+🔍 Focused on:
+- Python, SQL, data analysis
+- Machine Learning (classification)
+- Data storytelling and visualization
+
+📌 Key Skills:
+- Python (Pandas, NumPy)
+- SQL
+- Scikit-learn
+- Matplotlib, Seaborn
+- Streamlit
+
+💼 Looking for junior Data Scientist / Data Analyst roles in Spain / Europe.
+
+📎 Projects:
+- Credit Card Fraud Detection (ML)
+- Financial Data Analysis (portfolio)
 
 <!---
 brayanv21/brayanv21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
