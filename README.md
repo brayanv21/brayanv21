@@ -2,14 +2,19 @@
 
 ## 💼 Data Scientist | Financial Data Analytics | Machine Learning
 
-Data Scientist con formación en Machine Learning y background en Finanzas y Contabilidad.  
-Experiencia en análisis de datos financieros, automatización de reportes y desarrollo de modelos predictivos en Python.  
+Soy Data Scientist con formación en Machine Learning y background en Finanzas y Contabilidad. Analizo datos financieros, desarrollo modelos predictivos en Python y transformo información compleja en insights accionables para la toma de decisiones.
 
-🔎 Interesado en:
+Me especializo en análisis exploratorio de datos, detección de fraude, modelado predictivo y automatización de reportes financieros.
+
+---
+
+## 🔎 Áreas de Interés
+
 - Fraud Detection
 - Risk Analytics
 - Financial Modeling
 - Business Intelligence
+- Data-Driven Decision Making
 
 ---
 
@@ -19,7 +24,7 @@ Experiencia en análisis de datos financieros, automatización de reportes y des
 - Python
 - SQL
 
-### 📊 Data Analysis
+### 📊 Data Analysis & Visualization
 - Pandas
 - NumPy
 - Matplotlib
@@ -27,11 +32,12 @@ Experiencia en análisis de datos financieros, automatización de reportes y des
 
 ### 🤖 Machine Learning
 - Scikit-Learn
-- Model Evaluation
 - Feature Engineering
+- Model Evaluation
 - Handling Imbalanced Data
+- Classification Models
 
-### 🚀 Tools
+### 🚀 Tools & Development
 - Git & GitHub
 - Streamlit
 - APIs
@@ -39,34 +45,43 @@ Experiencia en análisis de datos financieros, automatización de reportes y des
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-### 🔹 Credit Card Fraud Detection (Machine Learning)
-- Built a ML pipeline for fraud detection.
-- Performed EDA, data cleaning and class imbalance handling.
-- Trained classification models.
-- Deployed a Streamlit web app for real-time predictions.
+### 💳 Credit Card Fraud Detection – Machine Learning
 
-👉 [View Repository](PON_AQUI_TU_LINK)
+Desarrollo un pipeline completo de Machine Learning para detectar fraude en transacciones financieras.
 
----
+- Realizo análisis exploratorio de datos (EDA).
+- Limpio y transformo datos.
+- Manejo desbalanceo de clases.
+- Entreno modelos de clasificación.
+- Evalúo métricas como Accuracy, Recall y F1-Score.
+- Implemento una aplicación web con Streamlit para predicciones en tiempo real.
 
-## 💼 Professional Background
-
-Before transitioning into Data Science, I worked in:
-- Cost control and financial analysis
-- Accounting and financial reporting
-- Budget monitoring and deviation analysis
-
-This gives me strong business understanding when working with financial data.
+🔗 Repositorio: (añade aquí tu enlace)
 
 ---
 
-## 📫 Contact
+## 💼 Experiencia Profesional
 
-📍 Murcia, Spain  
+Cuento con experiencia en control de costos, análisis financiero y contabilidad. Analizo desviaciones presupuestarias, elaboro reportes financieros y optimizo procesos contables. Este background me permite comprender profundamente datos financieros y aplicar modelos analíticos con enfoque de negocio.
+
+---
+
+## 📍 Ubicación
+
+Murcia, España
+
+---
+
+## 📫 Contacto
+
 📧 brayanvv21@icloud.com  
-🔗 LinkedIn: (pon aquí tu enlace)
+🔗 LinkedIn: (añade tu enlace aquí)
+
+---
+
+⭐ Siempre aprendiendo y desarrollando soluciones basadas en datos.
 
 ---
 
