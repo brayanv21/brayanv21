@@ -1,24 +1,76 @@
-# Cesar Brayan Vera Vasquez
+# 👋 Hola, soy Cesar Brayan Vera Vasquez
 
-**Junior Data Scientist** with strong financial background and analytical skills.
+## 💼 Data Scientist | Financial Data Analytics | Machine Learning
 
-🔍 Focused on:
-- Python, SQL, data analysis
-- Machine Learning (classification)
-- Data storytelling and visualization
+Data Scientist con formación en Machine Learning y background en Finanzas y Contabilidad.  
+Experiencia en análisis de datos financieros, automatización de reportes y desarrollo de modelos predictivos en Python.  
 
-📌 Key Skills:
-- Python (Pandas, NumPy)
+🔎 Interesado en:
+- Fraud Detection
+- Risk Analytics
+- Financial Modeling
+- Business Intelligence
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming
+- Python
 - SQL
-- Scikit-learn
-- Matplotlib, Seaborn
+
+### 📊 Data Analysis
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+### 🤖 Machine Learning
+- Scikit-Learn
+- Model Evaluation
+- Feature Engineering
+- Handling Imbalanced Data
+
+### 🚀 Tools
+- Git & GitHub
 - Streamlit
+- APIs
+- Web Scraping
 
-💼 Looking for junior Data Scientist / Data Analyst roles in Spain / Europe.
+---
 
-📎 Projects:
-- Credit Card Fraud Detection (ML)
-- Financial Data Analysis (portfolio)
+## 🚀 Featured Projects
+
+### 🔹 Credit Card Fraud Detection (Machine Learning)
+- Built a ML pipeline for fraud detection.
+- Performed EDA, data cleaning and class imbalance handling.
+- Trained classification models.
+- Deployed a Streamlit web app for real-time predictions.
+
+👉 [View Repository](PON_AQUI_TU_LINK)
+
+---
+
+## 💼 Professional Background
+
+Before transitioning into Data Science, I worked in:
+- Cost control and financial analysis
+- Accounting and financial reporting
+- Budget monitoring and deviation analysis
+
+This gives me strong business understanding when working with financial data.
+
+---
+
+## 📫 Contact
+
+📍 Murcia, Spain  
+📧 brayanvv21@icloud.com  
+🔗 LinkedIn: (pon aquí tu enlace)
+
+---
+
+⭐ Always learning. Always building.
 
 <!---
 brayanv21/brayanv21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
