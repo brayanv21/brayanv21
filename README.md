@@ -73,7 +73,7 @@ Desarrollo un pipeline completo de Machine Learning para detectar transacciones 
 - Optimizo el rendimiento priorizando Recall para detectar fraudes  
 - Despliego una aplicación interactiva con Streamlit para predicciones en tiempo real  
 
-🔗 Repositorio: (Añade aquí tu enlace)
+🔗 Repositorio: (https://github.com/brayanv21/credit-card-fraud-detection-ml)
 
 ---
 
